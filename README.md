@@ -1,5 +1,4 @@
 # Django Backend Build Log
-https://siffyyrox-x.github.io/Django-backend-build-log/
 
 A project-based learning roadmap for becoming job-ready with Django and Django REST Framework.
 
